@@ -7,7 +7,7 @@ on:
 
 jobs:
   publish:
-    permission:
+    permissions:
       id-token: write
       content: read
       packages: write
