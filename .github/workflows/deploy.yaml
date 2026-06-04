@@ -9,7 +9,7 @@ jobs:
   publish:
     permissions:
       id-token: write
-      content: read
+      contents: read
       packages: write
 
     runs-on: ubuntu-latest
