@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace RTFleet.Shared.Common
 {
-    internal class SystemUtility
+    public class SystemUtility
     {
     }
 }
